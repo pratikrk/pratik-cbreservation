@@ -29,3 +29,6 @@ I did this project using python language in which i used flask for data connecti
 ![3](https://user-images.githubusercontent.com/83352530/173005338-487c2cd6-9968-4dd5-bd3a-39a3561752e5.png)
 ![4](https://user-images.githubusercontent.com/83352530/173005315-8f1c0edc-bdb2-4d41-8c66-413c41d1c777.png)
 ![5](https://user-images.githubusercontent.com/83352530/173005326-7c25eb29-ec2c-43a9-ae7e-5e9b5aa4a125.png)
+![6](https://user-images.githubusercontent.com/83352530/173045322-615924ae-c366-43fc-8c7c-750a1f282ac0.png)
+![7](https://user-images.githubusercontent.com/83352530/173045312-db7b0b1d-51e2-4999-8060-eeba66eafcdd.png)
+
