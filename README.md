@@ -34,4 +34,4 @@ I did this project using python language in which i used flask for data connecti
 
 
 
-[Click here For Vedio Link](https://youtu.be/noVEDhMce_0)
+[Click here For demo Vedio Link](https://youtu.be/noVEDhMce_0)
