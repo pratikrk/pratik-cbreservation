@@ -1,4 +1,3 @@
-# [covbedreservation]()
 
 ## Bed Reservation System
 This Portal Can Be used to Reserve Bed For Covid Patients
