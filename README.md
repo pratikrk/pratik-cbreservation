@@ -17,6 +17,8 @@ Bed Management in this pandemic has become an issue that almost all of the famil
 Azure Database for MySQL is cost effective and easy to set up, operate, and scale. Enjoy advanced security, same-zone or zone-redundant high availability, and a service-level agreement (SLA) of up to 99.99 percent. Learn how to migrate your on-premises MySQL database to Azure with this migration guide.
 
 ### 2) Databases
+### 3) Azure SQL
+Get a consistent, unified experience across your entire SQL portfolio and a full range of deployment options from edge to cloud. Intelligent and secure Azure SQL database services make it easy to: Migrate your SQL workloads with SQL Server on Azure Virtual Machines. Modernize your existing applications or enjoy hybrid flexibility with Azure SQL Managed Instance.
 
 ## Other Azure Technologies:
 I did this project using python language in which i used flask for data connectivity 
